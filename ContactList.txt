@@ -1,2 +1,1 @@
-Arvind::Pandiyan:7760 McCallum Blvd:20217:Dallas:TX:75252:M:2146869962
-Nagabharan::Nagendran:7760 McCallum Blvd:20217:Dallas:TX:75252:M:6692269411
+Fname::Lname:Address:state:zip:gender:phno
